@@ -38,4 +38,11 @@
   * [Download](https://www.realvnc.com/en/connect/download/viewer/)
 
 
-apt update
+### SSH
+
+* hostname -I
+* in powershell or terminal
+  ```
+  ssh pi@<my raspberry pi ip address>
+  ```
+
